@@ -2,8 +2,6 @@
 @import url(./__subtitle/lead__subtitle.css);
 @import url(./__caption/lead__caption.css);
 @import url(./__image/lead__image.css);
-@import url(./_);
-@import url(./_);
 .lead {
   max-width: 984px;
   margin: 0 0 92px;
@@ -11,4 +9,14 @@
   font-family: Inter, Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
+}
+@media screen and (max-width: 769px) {
+  .lead {
+    margin-bottom: 88px;
+  }
+}
+@media screen and (max-width: 330px) {
+  .lead {
+    margin-bottom: 64px;
+  }
 }

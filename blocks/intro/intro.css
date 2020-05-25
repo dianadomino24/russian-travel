@@ -2,7 +2,7 @@
 @import url(./__text/intro__text.css);
 @import url(./__title/intro__title.css);
 @import url(./__list-item/intro__list-item.css);
-@import url(./__list-item/_span/intro__list_span.css);
+@import url(./__list-item/_span/intro__list-item_span.css);
 .intro {
   display: flex;
   flex-direction: column;
@@ -12,3 +12,17 @@
   color: white;
   font-family: Inter, Arial, Helvetica, sans-serif;
 }
+@media screen and (max-width: 769px) {
+  .intro{
+    padding: 0 24px;
+    max-width: 720px;
+    margin-bottom: 88px;
+  }
+}
+@media screen and (max-width: 330px) {
+  .intro{
+    padding: 0 16px;
+    margin-bottom: 64px;
+  }
+}
+

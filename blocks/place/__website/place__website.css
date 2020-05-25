@@ -1,9 +1,9 @@
 .place__website {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 1.22;
-  text-decoration-line: underline;
-  color: #FFFFFF;
-  margin: 0;
+  align-self: end;
+  justify-self: start;
+}
+@media screen and (max-width: 600px) {
+  .place__website {
+    display: none;
+  }
 }

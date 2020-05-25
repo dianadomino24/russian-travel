@@ -1,0 +1,8 @@
+.cover__text-block {
+  max-width: 560px;
+  min-height: 250px;
+  box-sizing: border-box;
+  text-align: center;
+  color: white;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+}

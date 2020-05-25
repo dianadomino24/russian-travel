@@ -7,3 +7,8 @@
   letter-spacing: 0.15em;
   text-transform: uppercase;
 }
+@media screen and (max-width: 769px) {
+  .lead__caption {
+    padding: 0 24px;
+  }
+}

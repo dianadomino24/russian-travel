@@ -1,7 +1,6 @@
 @import url(./__image/photo-grid__image.css);
 .photo-grid {
   max-width: 1184px;
-  min-height: 671px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   grid-gap: 16px;

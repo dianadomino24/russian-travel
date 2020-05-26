@@ -4,7 +4,6 @@
 @import url(./__website/place__website.css);
 @import url(./__paragraph/place__paragraph.css);
 @import url(./__link/place__link.css);
-@import url(./_);
 .place {
   color: white;
   font-family: Inter, Arial, Helvetica, sans-serif;

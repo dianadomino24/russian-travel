@@ -7,6 +7,9 @@
 
 Использовались css и html.
 
+**Ссылка на GitPages**
+[Ссылка на сайт в GitPages](https://dianadomino24.github.io/russian-travel/)
+
 **Макет**
 
 Применялся макет в Figma, который включал в себя наиболее

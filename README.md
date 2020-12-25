@@ -1,34 +1,42 @@
-# Проект 3: Путешествие по России
+# :train: A landing about curious places in Russia
 
-**Общее**
+A study project at Practicum by Yandex to try:
 
-В проекте реализован одностраничный сайт с информацией о
-примечательных местах для путешествий по России.
+- CSS, HTML, adaptive layout
+- Grid, Flexbox
+- BEM
 
-Использовались css и html.
+---
 
-**Ссылка на GitPages**
-[Ссылка на сайт в GitPages](https://dianadomino24.github.io/russian-travel/)
+## :mag_right: Preview
 
-**Макет**
+![Preview](./Screenshot_1.jpg)
+![Preview](./Screenshot_2.jpg)
+---
 
-Применялся макет в Figma, который включал в себя наиболее
-часто встречающиеся элементы лендингов:
-* баннеры,
-* галерею,
-* таблицу с изображением и относящейся к нему информацией,
-* ссылки,
-* навигация,
-* шапка и подвал.
+## :link: Link to test
 
-[Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+[GitPages](https://dianadomino24.github.io/russian-travel/)
 
-**Технологии**
 
-* Освоены отзывчивая (responsive), адаптивная (adaptive) и
-резиновая (liquid/fluid) верстки
-* Освоена flex- и grid- верстка
-* Создана Nested файловая структура по БЭМ.
+---
 
-В перспективе необходимо доработать сайт, например, добавив больше анимации,
-keyframes, добавить кнопку прокрутки вверх.
+## :rocket: Technologies
+
+-   **JavaScript ES6** - scroll counter
+
+-   semantic **HTML5**, styles - **CSS3** including Flexbox, Grid
+-   **adaptive**, responsive layout
+-   **BEM**
+-   **Figma**, Pixel Perfect.
+
+
+[Figma layout](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+
+---
+
+**Practicum by Yandex** - https://practicum.yandex.com/
+
+---
+
+## :sparkles: Thanks for watching!
